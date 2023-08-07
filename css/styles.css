@@ -1,0 +1,29 @@
+.heading {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        color: #333;
+        margin: auto;
+        font-size: 24px;
+        text-align: center;
+}
+
+.links {
+    color: #007bff;
+    text-decoration: none;
+    font-size: larger;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.links:visited {
+    color: #ba2be2;
+}
+
+.links:hover {
+    color: #ff4500;
+    text-decoration: underline;
+}
+
+.links:active {
+    color: #dc1430;
+}
